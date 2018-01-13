@@ -8,11 +8,11 @@ node conciergejs
 
 ## Try It Now
 
-We see most useful use cases for this arise in chat/email correspondence, so **demo is done through a chat interface** as well (Wire company is of no affiliation - just using them as an alternative to popular social media apps).
+Demo is in the chat interface.
 
 **Steps:**
 
-1. Register a new temporary user on [app.wire.com](https://app.wire.com/auth/#register)
+1. Register a new temporary user on [app.wire.com](https://app.wire.com/auth/#register) of no affiliation
 2. Follow all the usual wire's activation procedures *(i.e. email confirmation - Sorry!)*
 3. Enable the bot by clicking here: [caura.co/entropy-ai](https://www.caura.co/entropy-ai)
 
@@ -21,5 +21,6 @@ We see most useful use cases for this arise in chat/email correspondence, so **d
 
 ## About / Contributions
 
-[Caura & Co. Team](https://github.com/caura) - Language.Rml + Bot dev. work<br/>
+[@segahm](https://github.com/segahm) - this bot<br/>
+[Caura & Co. Team](https://github.com/caura) - Language.Ml<br/>
 [@dkovacevic](https://github.com/dkovacevic) - Wire dev. support and troubleshooting<br/>
